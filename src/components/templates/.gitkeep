@@ -1,0 +1,39 @@
+Aqui montamos a estrutura da pagina.
+
+Exemplo:
+
+Seguindo o design do projeto, temos:
+
+1. Header com opções do usuário
+2. Search com input e filtro
+3. Grid com cards
+4. Cards com opções
+5. Footer
+6. Layout para tudo isso
+
+Sendo assim, construímos o layout da pagina, como no design.
+Porém utilizaremos de partes menores, principalmente os organisms, que também foram construídos com partes menores.
+Então o benefício aqui é a capacidade de dividir o código, em escala geométrica.
+Este componente não tem estado. Só é um template, que nada mais é que um layout HTML/CSS.
+Quanto mais camadas separamos o código, melhor.
+
+// // // // // // // // // // // // // // // // //
+
+Here we set up the page structure.
+
+Example:
+
+Following the design of the project, we have:
+
+1. Header with user options
+2. Search with input and filter
+3. Grid with cards
+4. Cards with options
+5. Footer
+6. Layout for it all
+
+Therefore, we build the page layout, as in the design.
+But we will use smaller parts, mainly organisms, which were also built with smaller parts.
+So the benefit here is the ability to split the code, on a geometric scale.
+This component has no state. It's just a template, which is nothing more than an HTML/CSS layout.
+The more layers we separate the code, the better.

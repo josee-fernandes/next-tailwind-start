@@ -1,0 +1,9 @@
+Contextos que serão iniciados quando a aplicação estiver na pagina de login.
+Exemplo: AuthContext, Toast.
+Quanto menos melhor.
+
+// // // // // // // // // // // // // // // // //
+
+Contexts that will be launched when the application is on the login page.
+Example: AuthContext, Toast.
+The less the better.

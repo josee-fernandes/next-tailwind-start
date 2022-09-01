@@ -1,0 +1,11 @@
+Os átomos são as menores unidades de componentes, por exemplo um botão (button) ou um campo de texto (input).
+Estes não guardam estado, mas recebem propriedades.
+Input ou unidades que apresentam eventos de focus ou animações, podem ser criados com React.forwardRef.
+https://pt-br.reactjs.org/docs/forwarding-refs.html#forwarding-refs-to-dom-components
+
+// // // // // // // // // // // // // // // // //
+
+Atoms are the smallest component units, for example a button or an input.
+These do not keep state, but receive properties.
+Input or units that display focus events or animations can be created with React.forwardRef.
+https://pt-br.reactjs.org/docs/forwarding-refs.html#forwarding-refs-to-dom-components

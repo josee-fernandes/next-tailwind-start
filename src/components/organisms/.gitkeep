@@ -1,0 +1,9 @@
+Organismos são componentes grandes que são compostos por moléculas e átomos.
+Como em moléculas, podem ter componentes que só pertencem a ele. Não utilizáveis em outros contextos do app, por isso deixamos juntos com ele.
+Os outros átomos e moléculas são reutilizáveis em outras partes da aplicação.
+
+// // // // // // // // // // // // // // // // //
+
+Organisms are large components that are composed of molecules and atoms.
+As in molecules, it can have components that belong only to it. Not usable in other contexts of the app, so we leave it together with it.
+The other atoms and molecules are reusable in other parts of the application.

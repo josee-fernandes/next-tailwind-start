@@ -1,0 +1,9 @@
+Contextos que serão iniciados quando o usuário estiver logado.
+Exemplo: public + UserContext, ConfigsContext.
+Quanto menos melhor.
+
+// // // // // // // // // // // // // // // // //
+
+Contexts that will be launched when the user is logged in.
+Example: public + UserContext, ConfigsContext.
+The less the better.
